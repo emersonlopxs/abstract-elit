@@ -1,0 +1,21 @@
+{
+    "name": "abstract-elit",
+    "displayName": "abstract-elit",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "abstract elit",
+                "uiTheme": "vs-dark",
+                "path": "./themes/abstract elit-color-theme.json"
+            }
+        ]
+    }
+}
